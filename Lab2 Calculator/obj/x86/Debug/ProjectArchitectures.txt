@@ -1,0 +1,1 @@
+C:\Users\cis223\source\repos\Lab2 Calculator\Lab2 Calculator\Lab2 Calculator.csproj;x86
